@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  letter-spacing: 1px;
+  font-family: 'Poppins', sans-serif;
+}
+::placeholder {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  padding-left: 30px;
+  color: #4D4D4D;
+
+}
+label {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #1b1a1a;
+
+}
+h1 {
+  margin-left: 20%;
+}
+.login {
+  width: 320px;
+
+ display: block;
+ margin: 0 auto;
+ margin-top: 10%;
+}
+
+.card {
+  border: none;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 42px;
+
+}
+.card-title span {
+  text-align: center;
+  font-weight: bold;
+  font-size: 70px;
+  color: #F0142F;
+}
+
+.entradaDeDados {
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  background-color: #a3a3a53d;
+}
+
+.esqueciAsenha {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  text-decoration: underline;
+  color: #324FC9;
+}
+.esqueciAsenha span {
+  margin-top: -5px;
+  margin-right: 10px;
+}
+
+.entrar {
+  height: 50px;
+}
+
+
+
